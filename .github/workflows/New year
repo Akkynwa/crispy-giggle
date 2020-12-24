@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation1</title>
+    <link rel="stylesheet" href="my new countdown timer.css">
+</head>
+<body >
+    <main>
+        <header>
+        <h2 style="color:white;font-size: 30px;font-family: cursive;"> A COUNTDOWN TIMER WIDGET </h2>
+        <p style="color: bisque; font-size: 20px;background-color: black;background-size: contain; border-radius: 50%;"><a href= "#layout" style="color: bisque;"> My Countdown timer </a></p>
+        <p style="padding:7%;font-size: 16px;">Did you oversleep today? Were you in a hurry to get to school ON TIME? We have all went through
+            this. We have all been under pressure because of time.<br> It is all around us. But is it what we think it is?
+            Time seems to flow forward… But can it run backward? Do events unfold one after another, or do
+            past, present and future exist side by side? Is time a fundamental part of the Universe, or could it be that
+            time does not really exist?<br>
+
+            
+            What time is it? I could tell you it is 7:14 p.m., but your time may vary, depending on where and
+            when you are. But for most of us time is a set of numbers we use to gauge our days. We live our lives by
+            the clock – waking up, racing to work, going to bed, and on and on. However, it was not always like that.
+        
+            The concept of time is related with the motion and the change in the objects around us.All objects
+            begin, develop and end in time and that holds true not only for us , the human beings, but also for the
+            stars and the universe.In the Newtonian physics time is used as a parameter to describe the motion of
+            objects.But this does not necessarily mean that time exists in reality.<br>
+            We can,t perceive time itself but only the flow of time.Every instant the present turns into past and the
+            future - into present.We feel this passage of time because the past is quite different compared with the
+            future: we have memories of the past, but we don,t know anything about the future.And we cannot stop the
+            present: even when we are talking about the present instant, it,s already gone into past.Since the flow of
+            time makes a given moment come on the present stage only for an instant and the past and future exist
+            only in our consciousness, one may think that time doesn,t exist in reality but is only a psychological
+            phenomenon.<br>
+            We shall prove, using the theory of relativity , that time actually doesn,t flow and this is an indication
+            for the real existence of time.Let,s regard a model of the space-time suggested by Brian Greene(ref.1).He
+            considers the universe as a sliced loaf of bread(Fig.1).Each slice is a time cross section of the universe, i.e.
+            it contains all the events that take place in the entire universe at a certain instant according to a given
+            observer.If he could look at this picture from above , he could see all the events from the past, the present
+            and the future in the different slices, like the Big Bang, the origin of the Sun, the birth of his future</p>
+            
+
+    </header>
+    
+    <div id="layout">
+<ul id="timer">
+    <li>
+    <h1 id="days"></h1>
+    Days</li>
+    <li>
+    <h1 id="hours"></h1>
+    Hours</li>
+    <li>
+    <h1 id="mins"></h1>
+    Minutes</li>
+    <li>
+   <h1 id="secs"></h1>
+   Seconds</li>
+   </ul>
+</div>
+    <div id="buttons">
+        <button id="button1">CREATE COUNTDOWN</button>
+        <button id="button2">EMBED ON YOUR WEBSITE</button>
+        </div>
+    </div>
+    <main>
+        <div id="star8"><img src="C:\Users\AKACHUKWU\Downloads\.vscode\Animation\original.jpeg"></div>
+        <div id="star7"></div>
+        <div id="star1"></div>
+
+        <div id="allstars">
+            
+        <div id="star2"></div>
+        <div id="star3"></div>
+        <div id="star4"></div>
+        <div id="star5"></div>
+        <div id="star6"></div>
+<div id="star9"></div>
+<div id="star9x"></div>
+
+        </div>
+        <h3 style="color: white;"> &copy;2020 Powered by hestilome.com.</h3><h3 style="color:white;font: size 20;;">Contact Suport : 07033037845,07045714000.<br>
+        Facebook: Twitter:<img src="whatsapp (2).svg" style="width: 10px;"> Watsapp: Github.</h3>
+  
+    </main>
+
+    <script src="my new countdown timer.js"></script>
+</body>
+</html>
